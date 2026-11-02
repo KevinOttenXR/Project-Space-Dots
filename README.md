@@ -4,8 +4,6 @@ I'm a huge fan of *Project Hail Mary*, and seeing it in IMAX was an incredible e
 
 Together with Charlene van Lieshout, I created Project Space Dots: our own unofficial Astrophage experience for Apple Vision Pro. It's a small side project made to share that experience with everyone, combining "The Moment" scene with a mixed-reality Astrophage so you can relive Grace's encounter in your own surroundings. There are also a few other gimmicks to discover!
 
-The film clip featured in Project Space Dots was uploaded to YouTube by Prime Video. The app streams the clip directly from YouTube; I built the mixed-reality experience around it.
-
 ## Requirements
 
 - macOS with Xcode 26 or later and the visionOS SDK
@@ -40,4 +38,7 @@ The collider tools require separate Python dependencies (`numpy`, `trimesh`, `sc
 
 Unofficial fan project by Kevin Otten. Not affiliated with or endorsed by Amazon MGM Studios, MGM or Prime Video. *Project Hail Mary* and related marks belong to their respective owners.
 
+The film clip featured in Project Space Dots was uploaded to YouTube by Prime Video. The app streams the clip directly from YouTube; I built the mixed-reality experience around it.
+
 The Rocky's Grace models were supplied by their creators as 3D-print files. The Petrova Indicator is an original model inspired by the film. The film is streamed from YouTube and is not bundled with the app. Verify permission to redistribute the bundled models, images and other third-party assets before publishing this repository or distributing a build.
+
