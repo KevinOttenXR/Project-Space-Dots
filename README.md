@@ -32,7 +32,7 @@ The collider tools require separate Python dependencies (`numpy`, `trimesh`, `sc
 
 ## Special Thanks
 
-Charlene van Lieshout** — UX design and collaboration on the app experience
+**Charlene van Lieshout** — UX design and collaboration on the app experience
 
 ## Rights and attribution
 
