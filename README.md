@@ -4,6 +4,8 @@ I'm a huge fan of *Project Hail Mary*, and seeing it in IMAX was an incredible e
 
 Together with Charlene van Lieshout, I created Project Space Dots: our own unofficial Astrophage experience for Apple Vision Pro. It's a small side project made to share that experience with everyone, combining "The Moment" scene with a mixed-reality Astrophage so you can relive Grace's encounter in your own surroundings. There are also a few other gimmicks to discover!
 
+The film clip featured in Project Space Dots was uploaded to YouTube by Prime Video. The app streams the clip directly from YouTube; I built the mixed-reality experience around it.
+
 ## Requirements
 
 - macOS with Xcode 26 or later and the visionOS SDK
