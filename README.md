@@ -12,8 +12,8 @@ Together with Charlene van Lieshout, I created Project Space Dots: our own unoff
 
 ## Panel controls
 
-- **Move the screen:** Look at the screen, pinch and hold, then move your hand to reposition it. Push or pull to move it farther away or closer.
-- **Resize the screen:** Pinch with both hands and move them apart to make the screen larger, or closer together to make it smaller. Move it farther away and scale it up for an IMAX-inspired viewing experience.
+- **Move the panel:** Look at the panel, pinch and hold, then move your hand to reposition it. Push or pull to move it farther away or closer.
+- **Resize the panel:** Pinch with both hands and move them apart to make the panel larger, or closer together to make it smaller. Move it farther away and scale it up for an IMAX-inspired viewing experience.
 
 ## Requirements
 
