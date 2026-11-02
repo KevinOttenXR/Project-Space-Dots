@@ -47,9 +47,9 @@ The collider tools require separate Python dependencies (`numpy`, `trimesh`, `sc
 
 ## Rights and attribution
 
-**Copyright © 2026 Kevin Otten. All rights reserved.** The source code may not be copied, modified, or redistributed without permission.
+**Copyright © 2026 Kevin Otten. All rights reserved.** The source code may not be copied, modified, or redistributed without 
 
-Unofficial fan project by Kevin Otten. Not affiliated with or endorsed by Amazon MGM Studios, MGM or Prime Video. *Project Hail Mary* and related marks belong to their respective owners.
+Not affiliated with or endorsed by Amazon MGM Studios, MGM or Prime Video. *Project Hail Mary* and related marks belong to their respective owners.
 
 The film clip featured in Project Space Dots was uploaded to YouTube by Prime Video. The app streams the clip directly from YouTube; I built the mixed-reality experience around it.
 
