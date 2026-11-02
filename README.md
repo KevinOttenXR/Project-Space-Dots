@@ -2,7 +2,7 @@
 
 I'm a huge fan of *Project Hail Mary*, and seeing it in IMAX was an incredible experience. When I saw Grace surrounded by Astrophage in “The Moment” scene, I knew I wanted to recreate that feeling for Apple Vision Pro.
 
-Together with Charlene van Lieshout, I created Space Dots: our own unofficial Astrophage experience for Apple Vision Pro. It's a small side project made to share that experience with everyone, combining "The Moment" scene with a mixed-reality Astrophage so you can relive Grace's encounter in your own surroundings. There are also a few other gimmicks to discover!
+Together with Charlene van Lieshout, I created Project Space Dots: our own unofficial Astrophage experience for Apple Vision Pro. It's a small side project made to share that experience with everyone, combining "The Moment" scene with a mixed-reality Astrophage so you can relive Grace's encounter in your own surroundings. There are also a few other gimmicks to discover!
 
 ## Requirements
 
