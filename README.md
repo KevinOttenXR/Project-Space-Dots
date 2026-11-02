@@ -4,7 +4,7 @@ I'm a huge fan of *Project Hail Mary*, and seeing it in IMAX was an incredible e
 
 Space Dots is a small, unofficial side project made to share that experience with everyone. It combines a film clip with a mixed-reality Astrophage effect, so you can relive Grace's encounter in your own surroundings.
 
-## Credits
+## Special Thanks
 
 - **Charlene van Lieshout** — UX design and collaboration on the app experience
 
