@@ -4,11 +4,6 @@ I'm a huge fan of *Project Hail Mary*, and seeing it in IMAX was an incredible e
 
 Together with Charlene van Lieshout, I created Space Dots: our own unofficial Astrophage experience for Apple Vision Pro. It's a small side project made to share that experience with everyone, combining a film clip with a mixed-reality Astrophage effect so you can relive Grace's encounter in your own surroundings.
 
-## Credits
-
-- **Kevin Otten** — creator and developer
-- **Charlene van Lieshout** — UX design and collaboration on the app experience
-
 ## Requirements
 
 - macOS with Xcode 26 or later and the visionOS SDK
@@ -34,6 +29,10 @@ The film is streamed from YouTube; playback depends on internet access and the v
 - `Tools/` — tools for regenerating collider data after replacing a 3D model.
 
 The collider tools require separate Python dependencies (`numpy`, `trimesh`, `scipy` and `coacd==1.0.9`); they are not needed to build or run the app.
+
+## Special Thanks
+
+- **Charlene van Lieshout** — UX design and collaboration on the app experience
 
 ## Rights and attribution
 
