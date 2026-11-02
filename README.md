@@ -51,7 +51,7 @@ The collider tools require separate Python dependencies (`numpy`, `trimesh`, `sc
 
 Not affiliated with or endorsed by Amazon MGM Studios, MGM or Prime Video. *Project Hail Mary* and related marks belong to their respective owners.
 
-The film clip featured in Project Space Dots was uploaded to YouTube by Prime Video. The app streams the clip directly from YouTube; I built the mixed-reality experience around it.
+The film clip featured in Project Space Dots was uploaded to YouTube by Prime Video. The app streams the clip directly from YouTube and is not bundled with the app.
 
-The Rocky's Grace models were supplied by their creators as 3D-print files. The Petrova Indicator is an original model inspired by the film. The film is streamed from YouTube and is not bundled with the app. Verify permission to redistribute the bundled models, images and other third-party assets before publishing this repository or distributing a build.
+The Rocky's Grace models were supplied by their creators as 3D-print files. The Petrova Indicator is an original model inspired by the film.
 
