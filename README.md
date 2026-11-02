@@ -6,7 +6,6 @@ Space Dots is a small, unofficial side project made to share that experience wit
 
 ## Credits
 
-- **Kevin Otten** — creator and developer
 - **Charlene van Lieshout** — UX design and collaboration on the app experience
 
 ## Requirements
