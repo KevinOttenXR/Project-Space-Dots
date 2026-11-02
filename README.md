@@ -10,7 +10,7 @@ Together with Charlene van Lieshout, I created Project Space Dots: our own unoff
 - **Organic movement:** The clusters drift and change shape independently, while particle size, colour, rotation and noise vary to give the swarm depth and motion.
 - **Head-aware placement:** ARKit world tracking uses the headset's position and orientation to place the screen in front of the viewer. The screen stays anchored in the room, and the particle effect can be reoriented toward it from the viewer's current position.
 
-## Screen controls
+## Panelcontrols
 
 - **Move the screen:** Look at the screen, pinch and hold, then move your hand to reposition it. Push or pull to move it farther away or closer.
 - **Resize the screen:** Pinch with both hands and move them apart to make the screen larger, or closer together to make it smaller. Move it farther away and scale it up for an IMAX-inspired viewing experience.
