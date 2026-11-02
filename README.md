@@ -1,6 +1,13 @@
 # Space Dots
 
-An unofficial visionOS fan project by Kevin Otten, inspired by *Project Hail Mary*. Space Dots combines a film clip with a mixed-reality Astrophage experience for Apple Vision Pro.
+I'm a huge fan of *Project Hail Mary*, and seeing it in IMAX was an incredible experience. The moment I saw the Astrophage, I knew I wanted to recreate that feeling for Apple Vision Pro.
+
+Space Dots is a small, unofficial side project made to share that experience with everyone. It combines a film clip with a mixed-reality Astrophage effect, so you can relive Grace's encounter in your own surroundings.
+
+## Credits
+
+- **Kevin Otten** — creator and developer
+- **Charlene van Lieshout** — UX design and collaboration on the app experience
 
 ## Requirements
 
