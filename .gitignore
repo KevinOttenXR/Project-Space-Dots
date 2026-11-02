@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Xcode and Swift Package Manager output
+build/
+DerivedData/
+.swiftpm/
+xcuserdata/
+*.xcuserstate
+
+# Local assistant/editor settings
+.claude/
