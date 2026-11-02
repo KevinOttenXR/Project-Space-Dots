@@ -4,10 +4,6 @@ I'm a huge fan of *Project Hail Mary*, and seeing it in IMAX was an incredible e
 
 Space Dots is a small, unofficial side project made to share that experience with everyone. It combines a film clip with a mixed-reality Astrophage effect, so you can relive Grace's encounter in your own surroundings.
 
-## Special Thanks
-
-- **Charlene van Lieshout** — UX design and collaboration on the app experience
-
 ## Requirements
 
 - macOS with Xcode 26 or later and the visionOS SDK
@@ -33,6 +29,10 @@ The film is streamed from YouTube; playback depends on internet access and the v
 - `Tools/` — tools for regenerating collider data after replacing a 3D model.
 
 The collider tools require separate Python dependencies (`numpy`, `trimesh`, `scipy` and `coacd==1.0.9`); they are not needed to build or run the app.
+
+## Special Thanks
+
+- **Charlene van Lieshout** — UX design and collaboration on the app experience
 
 ## Rights and attribution
 
