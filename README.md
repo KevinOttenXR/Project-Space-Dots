@@ -1,57 +1,157 @@
-# Space Dots
+<div align="center">
+
+# SPACE DOTS
+
+Step into a mixed-reality interpretation of **“The Moment”**, where thousands of Astrophage particles come to life and fill your space.
+
+*A personal Apple Vision Pro project by Kevin Otten and Charlene van Lieshout.*
+
+`Apple Vision Pro` · `visionOS` · `SwiftUI` · `RealityKit` · `ARKit` · `Metal`
+
+---
+
+### HERO IMAGE / GIF PLACEHOLDER
+*Add a cinematic Space Dots screenshot or short GIF here.*
+
+[About](#about-the-project) · [Showcase](#experience-showcase) · [Features](#features) · [Technology](#behind-the-experience) · [Build](#build-and-run) · [Film & Credits](#inspiration-assets--credits)
+
+</div>
+
+## About the project
 
 I'm a huge fan of *Project Hail Mary*, and seeing it in IMAX was an incredible experience. When I saw Grace surrounded by Astrophage in “The Moment” scene, I knew I wanted to recreate that feeling for Apple Vision Pro.
 
-Together with Charlene van Lieshout, I created Project Space Dots: our own unofficial Astrophage experience for Apple Vision Pro. It's a small side project made to share that experience with everyone, combining "The Moment" scene with a mixed-reality Astrophage so you can relive Grace's encounter in your own surroundings. There are also a few other gimmicks to discover!
+Together with **Charlene van Lieshout**, we created **Space Dots**. This personal side project combines the film scene with mixed-reality particles so you can relive Grace's encounter in your own surroundings.
 
-## Technical details
+Instead of simply watching the scene, you can experience the Astrophage phenomenon in your own space.
 
-- **Spatial particle system:** Four RealityKit emitters combine distant particles, two moving clusters and larger foreground bokeh. Their configured emission rates and lifetimes correspond to approximately 24,800 particles at full, steady-state emission; the actual number varies during startup, fades and recentering.
-- **Organic movement:** The clusters drift and change shape independently, while particle size, colour, rotation and noise vary to give the swarm depth and motion.
-- **Head-aware placement:** ARKit world tracking uses the headset's position and orientation to place the screen in front of the viewer. The screen stays anchored in the room, and the particle effect can be reoriented toward it from the viewer's current position.
+## Experience showcase
+
+> **Media placeholders:** Replace each placeholder below with your own Vision Pro recordings, screenshots, or GIFs. For videos, use a screenshot linked to the video.
+
+| The Moment | Spatial cinema | Rocky's models |
+| :---: | :---: | :---: |
+| **🎬 VIDEO 01 PLACEHOLDER** | **🎬 VIDEO 02 PLACEHOLDER** | **🎬 VIDEO 03 PLACEHOLDER** |
+| Astrophage fills your surroundings as the scene unfolds. | Move and resize the floating cinema screen with hand gestures. | Interact with Rocky models on the home screen. |
+
+## Features
+
+### Astrophage particle system
+
+Four RealityKit emitters combine distant particles, two independently moving clusters, and larger foreground bokeh. Particle size, colour, rotation, and noise vary to give the effect depth and motion.
+
+| Particle system | Configuration |
+| --- | --- |
+| Estimated full steady-state emission | **≈ 24,800 particles** |
+| RealityKit emitters | **4** |
+| Independently moving clusters | **2** |
+
+*The particle estimate comes from configured emission rates and lifetimes. Actual counts vary during startup, fades, and recentering.*
+
+### Organic movement
+
+The clusters drift and change shape independently. Variation in each particle's appearance helps create a cloud that feels continuous rather than static.
+
+![Space Dots - Vision Pro Simulator](explainer-content/Astropaghe_ZoomedOut.gif)
+
+### Interactive Rocky models
+
+Find Rocky models on the home screen and interact with them as part of the spatial experience. The move like they are in zero gravity. You can trow them away, but don't worry! They will come back to you. 
+
+**🎬 VIDEO PLACEHOLDER**
 
 ## Panel controls
 
-- **Move the panel:** Look at the panel, pinch and hold, then move your hand to reposition it. Push or pull to move it farther away or closer.
-- **Resize the panel:** Pinch with both hands and move them apart to make the panel larger, or closer together to make it smaller. Move it farther away and scale it up for an IMAX-inspired viewing experience.
+- **Move the panel:** Look at it, pinch and hold, and move your hand. Push or pull to adjust distance.
+- **Resize the panel:** Pinch with both hands and move them apart to enlarge it, or closer together to make it smaller.
+
+> **CONTROLS GIF PLACEHOLDER:** Demonstrate moving and resizing the floating screen.
 
 ## Requirements
 
-- macOS with Xcode 26 or later and the visionOS SDK
-- Apple Vision Pro or the visionOS simulator
-- An internet connection for the embedded YouTube video
+- A Mac with Xcode 26 or later and the visionOS SDK.
+- Apple Vision Pro or the visionOS simulator.
+- Internet access for the embedded YouTube clip.
+
+Some spatial behaviour requires a physical Apple Vision Pro to evaluate fully.
 
 ## Build and run
 
-1. Open `Space Dots.xcodeproj` in Xcode.
-2. Select the **Space Dots** target and open **Signing & Capabilities**.
-3. Keep **Automatically manage signing** enabled and select your own Apple Developer team. No team is configured in this copy.
-4. Select Apple Vision Pro or an Apple Vision Pro simulator and run the **Space Dots** scheme.
+1. Clone or download this repository.
+2. Open `Space Dots.xcodeproj` in Xcode.
+3. Select the **Space Dots** target and open **Signing & Capabilities**.
+4. Keep **Automatically manage signing** enabled and select your Apple Developer team. No team is configured in the repository.
+5. Select Apple Vision Pro or an Apple Vision Pro simulator and run the **Space Dots** scheme.
 
-For a physical device, connect it to Xcode and enable Developer Mode if prompted. If Xcode reports that the bundle identifier is already in use, change `com.spacedots.app` to a unique identifier under **Signing & Capabilities**. The simulator can also be built without a development team.
+Playback requires internet access and depends on YouTube allowing the video to play in the app. Space Dots does not include a music player.
 
-The film is streamed from YouTube; playback depends on internet access and the video's availability for embedding. The app does not include a music player.
+## Inspiration, Assets & Credits
 
-## Project structure
+Space Dots is an independent fan project inspired by *Project Hail Mary* (2026), based on the novel by Andy Weir.
 
-- `Space Dots/` — SwiftUI, RealityKit and Metal app code, assets and collider data.
-- `Packages/RealityKitContent/` — local Reality Composer Pro content package.
-- `Tests/` — standalone physics and collider checks.
-- `Tools/` — tools for regenerating collider data after replacing a 3D model.
+This section brings together the original film, the book, the assets used in the experience, and the people behind the project.
 
-The collider tools require separate Python dependencies (`numpy`, `trimesh`, `scipy` and `coacd==1.0.9`); they are not needed to build or run the app.
+### Original Film & Video
 
-## Special Thanks
+The Astrophage experience is inspired by **“Having A Moment”**, the scene in which Ryland Grace encounters Astrophage.
 
-**Charlene van Lieshout** — UX design and collaboration on the app experience
+Space Dots streams the original video published by Prime Video on YouTube. The video is not included in the app or repository.
 
-## Rights and attribution
+**[Watch “Having A Moment” on YouTube](https://www.youtube.com/watch?v=vppn4gX0eUI)**
 
-**Copyright © 2026 Kevin Otten. All rights reserved.** The source code may not be copied, modified, or redistributed without 
+> **VIDEO THUMBNAIL PLACEHOLDER**
+>
+> Add a thumbnail linked to the original YouTube video.
 
-Not affiliated with or endorsed by Amazon MGM Studios, MGM or Prime Video. *Project Hail Mary* and related marks belong to their respective owners.
+### Explore Project Hail Mary
 
-The film clip featured in Project Space Dots was uploaded to YouTube by Prime Video. The app streams the clip directly from YouTube and is not bundled with the app.
+**Watch the film**
 
-The Rocky's Grace models were supplied by their creators as 3D-print files. The Petrova Indicator is an original model inspired by the film.
+- [Prime Video](https://www.primevideo.com/detail/0J0SQMKFG51K9S3UTU9SDEMT7D)
+- [Apple TV](https://tv.apple.com/nl/movie/project-hail-mary/umc.cmc.7jxdlxvz304lj3iwhtrhbe8fv)
 
+**Read the original book**
+
+- [Project Hail Mary by Andy Weir](https://www.amazon.com/dp/0593135229)
+
+### 3D Models & Assets
+
+Space Dots combines third-party 3D models adapted for Apple Vision Pro with custom-made assets and particle effects.
+
+| Asset | Source / Credit |
+| --- | --- |
+| Rocky's 3D models | [Project Hail Mary – Amazon](https://www.amazon.com/salp/projecthailmary?hhf) |
+| Petrova Indicator | Original 3D model by Kevin Otten |
+| Astrophage particle system | Custom RealityKit implementation by Kevin Otten |
+
+*Third-party assets remain the property of their respective creators and are subject to their original license terms.*
+
+### Project Creators
+
+**Kevin Otten**
+
+Development, 3D implementation, particle systems and technical implementation.
+
+**Charlene van Lieshout**
+
+UX design and collaboration on the app experience.
+
+### Rights & Disclaimer
+
+**Copyright © 2026 Kevin Otten. All rights reserved.**
+
+The original Space Dots source code is publicly viewable. Copying, modifying or redistributing it requires prior permission, except where applicable law or separately licensed third-party components allow otherwise.
+
+Space Dots is an independent, unofficial fan project. It is not affiliated with, sponsored by or endorsed by Amazon MGM Studios, MGM or Prime Video.
+
+*Project Hail Mary*, its characters, film footage and associated intellectual property belong to their respective rights holders.
+
+The original film clip is streamed from YouTube and is not redistributed with the app. Third-party 3D models remain subject to their creators' rights and applicable licenses.
+
+---
+
+<div align="center">
+
+*Made for Apple Vision Pro · Inspired by Project Hail Mary*
+
+</div>
