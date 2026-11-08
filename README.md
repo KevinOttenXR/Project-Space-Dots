@@ -52,7 +52,7 @@ Four RealityKit emitters combine distant particles, two independently moving clu
 
 The clusters drift and change shape independently. Variation in each particle's appearance helps create a cloud that feels continuous rather than static.
 
-![Space Dots - Vision Pro Simulator](./explainer-content/Astropaghe_ZoomedOut.gif)
+![Space Dots - Vision Pro Simulator](https://raw.githubusercontent.com/KevinOttenXR/Project-Space-Dots/main/explainer-content/Astropaghe_ZoomedOut.gif)
 
 ### Interactive Rocky models
 
@@ -98,12 +98,6 @@ The Astrophage experience is inspired by **“Having A Moment”**, the scene in
 Space Dots streams the original video published by Prime Video on YouTube. The video is not included in the app or repository.
 
 **[Watch “Having A Moment” on YouTube](https://www.youtube.com/watch?v=vppn4gX0eUI)**
-
-> **VIDEO THUMBNAIL PLACEHOLDER**
->
-> Add a thumbnail linked to the original YouTube video.
-
-### Explore Project Hail Mary
 
 **Watch the film**
 
