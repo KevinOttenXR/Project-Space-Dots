@@ -31,7 +31,7 @@ Instead of simply watching the scene, you can experience the Astrophage phenomen
 
 | The Moment | Spatial cinema | Rocky's models |
 | :---: | :---: | :---: |
-| **🎬 VIDEO 01 PLACEHOLDER** | **🎬 VIDEO 02 PLACEHOLDER** | **🎬 VIDEO 03 PLACEHOLDER** |
+| **VIDEO 01 PLACEHOLDER** | **VIDEO 02 PLACEHOLDER** | **VIDEO 03 PLACEHOLDER** |
 | Astrophage fills your surroundings as the scene unfolds. | Move and resize the floating cinema screen with hand gestures. | Interact with Rocky models on the home screen. |
 
 ## Features
