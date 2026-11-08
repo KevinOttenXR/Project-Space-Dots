@@ -53,7 +53,7 @@ Four RealityKit emitters combine distant particles, two independently moving clu
 The clusters drift and change shape independently. Variation in each particle's appearance helps create a cloud that feels continuous rather than static.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KevinOttenXR/Project-Space-Dots/main/explainer-content/Astropaghe_ZoomedOut.gif" alt="Space Dots - Vision Pro Simulator" width="720">
+  <img src="Explainer%20content/Astropaghe_ZoomedOut.gif" alt="Space Dots - Vision Pro Simulator" width="720">
 </p>
 
 ### Interactive Rocky models
