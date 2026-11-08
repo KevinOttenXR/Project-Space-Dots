@@ -119,15 +119,22 @@ Space Dots combines third-party 3D models adapted for Apple Vision Pro with cust
 
 *Third-party assets remain the property of their respective creators and are subject to their original license terms.*
 
-### Project Creators
+<h2>Project Creators</h2>
 
-**Kevin Otten**
-
-Development, 3D implementation, particle systems and technical implementation.
-
-**Charlene van Lieshout**
-
-UX design and collaboration on the app experience.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Kevin Otten</h3>
+      <strong>Development & Technical Implementation</strong>
+      <p>3D implementation, particle systems, RealityKit development and technical integration.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Charlene van Lieshout</h3>
+      <strong>UX Design & Experience</strong>
+      <p>User experience design, interaction concepts and collaboration on the app experience.</p>
+    </td>
+  </tr>
+</table>
 
 ### Rights & Disclaimer
 
