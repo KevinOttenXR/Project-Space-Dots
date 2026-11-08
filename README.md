@@ -11,7 +11,6 @@ Step into a mixed-reality interpretation of **“The Moment”**, where thousand
 ---
 
 ### HERO IMAGE / GIF PLACEHOLDER
-*Add a cinematic Space Dots screenshot or short GIF here.*
 
 [About](#about-the-project) · [Showcase](#experience-showcase) · [Features](#features) · [Technology](#behind-the-experience) · [Build](#build-and-run) · [Film & Credits](#inspiration-assets--credits)
 
@@ -26,8 +25,6 @@ Together with **Charlene van Lieshout**, we created **Space Dots**. This persona
 Instead of simply watching the scene, you can experience the Astrophage phenomenon in your own space.
 
 ## Experience showcase
-
-> **Media placeholders:** Replace each placeholder below with your own Vision Pro recordings, screenshots, or GIFs. For videos, use a screenshot linked to the video.
 
 | The Moment | Spatial cinema | Rocky's models |
 | :---: | :---: | :---: |
