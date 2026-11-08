@@ -57,14 +57,14 @@ The clusters drift and change shape independently. Variation in each particle's 
 
 Find Rocky models on the home screen and interact with them as part of the spatial experience. The move like they are in zero gravity. You can trow them away, but don't worry! They will come back to you. 
 
-**🎬 VIDEO PLACEHOLDER**
+**VIDEO PLACEHOLDER**
 
 ## Panel controls
 
 - **Move the panel:** Look at it, pinch and hold, and move your hand. Push or pull to adjust distance.
 - **Resize the panel:** Pinch with both hands and move them apart to enlarge it, or closer together to make it smaller.
 
-> **CONTROLS GIF PLACEHOLDER:** Demonstrate moving and resizing the floating screen.
+**VIDEO PLACEHOLDER**
 
 ## Requirements
 
