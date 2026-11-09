@@ -10,7 +10,9 @@ Step into a mixed-reality interpretation of **“The Moment”**, where thousand
 
 ---
 
-### HERO IMAGE / GIF PLACEHOLDER
+<p align="center">
+  <img src="Explainer%20content/Project_Spacedots_1.gif" alt="Space Dots - Vision Pro Simulator" width="720">
+</p>
 
 [About](#about-the-project) · [Showcase](#experience-showcase) · [Features](#features) · [Technology](#behind-the-experience) · [Build](#build-and-run) · [Film & Credits](#inspiration-assets--credits)
 
@@ -26,10 +28,23 @@ Instead of simply watching the scene, you can experience the Astrophage phenomen
 
 ## Experience showcase
 
-| The Moment | Spatial cinema | Rocky's models |
-| :---: | :---: | :---: |
-| **VIDEO 01 PLACEHOLDER** | **VIDEO 02 PLACEHOLDER** | **VIDEO 03 PLACEHOLDER** |
-| Astrophage fills your surroundings as the scene unfolds. | Move and resize the floating cinema screen with hand gestures. | Interact with Rocky models on the home screen. |
+<table>
+  <tr>
+    <th width="33%">The Moment</th>
+    <th width="33%">Spatial cinema</th>
+    <th width="33%">Rocky's models</th>
+  </tr>
+  <tr>
+    <td><img src="Explainer%20content/Project_Spacedots_Astropaghe.gif" alt="Astrophage particles filling the room" width="100%"></td>
+    <td><img src="Explainer%20content/Project_Spacedots_Controls.gif" alt="Moving and resizing the cinema screen" width="100%"></td>
+    <td><img src="Explainer%20content/Project_Spacedots_Interaction.gif" alt="Interacting with Rocky models" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center">Astrophage fills your surroundings as the scene unfolds.</td>
+    <td align="center">Move and resize the floating cinema screen with hand gestures.</td>
+    <td align="center">Interact with Rocky models on the home screen.</td>
+  </tr>
+</table>
 
 ## Features
 
