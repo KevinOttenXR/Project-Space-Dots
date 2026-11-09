@@ -1,8 +1,8 @@
 <div align="center">
 
-# SPACE DOTS
+# PROJECT SPACE DOTS
 
-Step into a mixed-reality interpretation of **“The Moment”**, where thousands of Astrophage particles come to life and fill your space.
+Step into a mixed-reality interpretation of **“The Moment”**, where thousands of astrophage particles come to life and fill your space.
 
 *A personal Apple Vision Pro project by Kevin Otten and Charlene van Lieshout.*
 
@@ -20,32 +20,28 @@ Step into a mixed-reality interpretation of **“The Moment”**, where thousand
 
 ## About the project
 
-I'm a huge fan of *Project Hail Mary*, and seeing it in IMAX was an incredible experience. When I saw Grace surrounded by Astrophage in “The Moment” scene, I knew I wanted to recreate that feeling for Apple Vision Pro.
+I'm a huge fan of *Project Hail Mary*, and seeing it in IMAX was an incredible experience. When I saw Grace surrounded by astrophage in “The Moment” scene, I knew I wanted to recreate that feeling for Apple Vision Pro.
 
 Together with **Charlene van Lieshout**, we created **Space Dots**. This personal side project combines the film scene with mixed-reality particles so you can relive Grace's encounter in your own surroundings.
 
-Instead of simply watching the scene, you can experience the Astrophage phenomenon in your own space.
+Instead of simply watching the scene, you can experience the astrophage phenomenon in your own space.
 
 ## Features
 
-### Astrophage particle system
+### astrophage particle system
 
-Four RealityKit emitters combine distant particles, two independently moving clusters, and larger foreground bokeh. Particle size, colour, rotation, and noise vary to give the effect depth and motion.
+Four RealityKit emitters combine distant particles, two independently moving clusters, and larger foreground bokeh, adding up to roughly 24,800 particles at full steady-state emission. Particle size, colour, rotation, and noise vary to give the effect depth and motion.
 
-| Particle system | Configuration |
-| --- | --- |
-| Estimated full steady-state emission | **≈ 24,800 particles** |
-| RealityKit emitters | **4** |
-| Independently moving clusters | **2** |
-
-*The particle estimate comes from configured emission rates and lifetimes. Actual counts vary during startup, fades, and recentering.*
+<p align="center">
+  <img src="Explainer%20content/Astropaghe_ZoomedOut.gif" alt="Astrophage particles filling a virtual gallery" width="720">
+</p>
 
 ### Organic movement
 
 The clusters drift and change shape independently. Variation in each particle's appearance helps create a cloud that feels continuous rather than static.
 
 <p align="center">
-  <img src="Explainer%20content/Astropaghe_ZoomedOut.gif" alt="Astrophage cloud, zoomed out" width="49%"> <img src="Project_Spacedots_Astropaghe.gif" alt="Astrophage cloud, close-up" width="49%">
+  <img src="Explainer%20content/Project_Spacedots_Astropaghe.gif" alt="Space Dots - Vision Pro Simulator" width="720">
 </p>
 
 ### Interactive Rocky models
@@ -91,7 +87,7 @@ This section brings together the original film, the book, the assets used in the
 
 ### Original Film & Video
 
-The Astrophage experience is inspired by **“Having A Moment”**, the scene in which Ryland Grace encounters Astrophage.
+The Astrophage experience is inspired by **“Having A Moment”**, the scene in which Ryland Grace encounters astrophage.
 
 Space Dots streams the original video published by Prime Video on YouTube. The video is not included in the app or repository.
 
@@ -129,8 +125,8 @@ Space Dots combines third-party 3D models adapted for Apple Vision Pro with cust
     </td>
     <td width="50%" valign="top">
       <h3>Charlene van Lieshout</h3>
-      <strong>UX Design & Experience</strong>
-      <p>User experience design, interaction concepts and collaboration on the app experience.</p>
+      <strong>UX Design</strong>
+      <p>Experience design, interaction concepts, visual design.</p>
     </td>
   </tr>
 </table>
@@ -150,7 +146,3 @@ The original film clip is streamed from YouTube and is not redistributed with th
 ---
 
 <div align="center">
-
-*Made for Apple Vision Pro · Inspired by Project Hail Mary*
-
-</div>
