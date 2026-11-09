@@ -26,26 +26,6 @@ Together with **Charlene van Lieshout**, we created **Space Dots**. This persona
 
 Instead of simply watching the scene, you can experience the Astrophage phenomenon in your own space.
 
-## Experience showcase
-
-<table>
-  <tr>
-    <th width="33%">The Moment</th>
-    <th width="33%">Spatial cinema</th>
-    <th width="33%">Rocky's models</th>
-  </tr>
-  <tr>
-    <td><img src="Explainer%20content/Project_Spacedots_Astropaghe.gif" alt="Astrophage particles filling the room" width="100%"></td>
-    <td><img src="Explainer%20content/Project_Spacedots_Controls.gif" alt="Moving and resizing the cinema screen" width="100%"></td>
-    <td><img src="Explainer%20content/Project_Spacedots_Interaction.gif" alt="Interacting with Rocky models" width="100%"></td>
-  </tr>
-  <tr>
-    <td align="center">Astrophage fills your surroundings as the scene unfolds.</td>
-    <td align="center">Move and resize the floating cinema screen with hand gestures.</td>
-    <td align="center">Interact with Rocky models on the home screen.</td>
-  </tr>
-</table>
-
 ## Features
 
 ### Astrophage particle system
@@ -65,21 +45,25 @@ Four RealityKit emitters combine distant particles, two independently moving clu
 The clusters drift and change shape independently. Variation in each particle's appearance helps create a cloud that feels continuous rather than static.
 
 <p align="center">
-  <img src="Explainer%20content/Astropaghe_ZoomedOut.gif" alt="Space Dots - Vision Pro Simulator" width="720">
+  <img src="Explainer%20content/Astropaghe_ZoomedOut.gif" alt="Astrophage cloud, zoomed out" width="49%"> <img src="Project_Spacedots_Astropaghe.gif" alt="Astrophage cloud, close-up" width="49%">
 </p>
 
 ### Interactive Rocky models
 
 Find Rocky models on the home screen and interact with them as part of the spatial experience. The move like they are in zero gravity. You can trow them away, but don't worry! They will come back to you. 
 
-**VIDEO PLACEHOLDER**
+<p align="center">
+  <img src="Explainer%20content/Project_Spacedots_Interaction.gif" alt="Space Dots - Vision Pro Simulator" width="720">
+</p>
 
 ## Panel controls
 
 - **Move the panel:** Look at it, pinch and hold, and move your hand. Push or pull to adjust distance.
 - **Resize the panel:** Pinch with both hands and move them apart to enlarge it, or closer together to make it smaller.
 
-**VIDEO PLACEHOLDER**
+<p align="center">
+  <img src="Explainer%20content/Project_Spacedots_Controls.gif" alt="Space Dots - Vision Pro Simulator" width="720">
+</p>
 
 ## Requirements
 
