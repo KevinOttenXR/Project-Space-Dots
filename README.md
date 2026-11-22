@@ -18,7 +18,7 @@ Space Dots was built for Apple Vision Pro, which still offers the best experienc
 
 [Build and installation instructions](#build-and-run)
 
-`Apple Vision Pro` · `Meta Quest` · `visionOS` · `RealityKit` · `Unity`
+`Apple Vision Pro` · `visionOS` · `RealityKit` · `Meta Quest Unity`
 
 ---
 
