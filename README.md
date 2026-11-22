@@ -10,8 +10,11 @@ Step into a mixed-reality interpretation of **“The Moment”**, where thousand
 
 Space Dots was built for Apple Vision Pro, which still offers the best experience. The new Quest version was rebuilt in Unity. Quest 3 and 3S are recommended for the Quest version. Quest 2 uses a lighter Astrophage particle effect.
 
-[![Vision Pro](https://img.shields.io/badge/Vision_Pro-171717?style=for-the-badge)](https://github.com/KevinOttenXR/Project-Space-Dots/archive/refs/heads/main.zip)
-[![Quest](https://img.shields.io/badge/Quest-0866FF?style=for-the-badge)](https://github.com/KevinOttenXR/Project-Space-Dots/releases/download/quest-v1.0.0/space-dots-quest-1.0.0.apk)
+<p align="center">
+  <a href="https://github.com/KevinOttenXR/Project-Space-Dots/archive/refs/heads/main.zip"><img src="Explainer%20content/download-vision-pro.png" alt="Vision Pro" width="190" height="56"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/KevinOttenXR/Project-Space-Dots/releases/download/quest-v1.0.0/space-dots-quest-1.0.0.apk"><img src="Explainer%20content/download-quest.png" alt="Quest" width="190" height="56"></a>
+</p>
 
 [Build and installation instructions](#build-and-run)
 
