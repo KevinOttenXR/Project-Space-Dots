@@ -90,8 +90,17 @@ Some spatial behaviour requires a physical Apple Vision Pro to evaluate fully.
 
 ### Meta Quest 3, 3S and 2
 
-- **Install from SideQuest.** If you already use SideQuest, open the [Project Space Dots listing](https://sidequestvr.com/app/64446/project-space-dots) and choose **Sideload**.
-- **Download the APK.** [Download the Quest APK from GitHub](https://github.com/KevinOttenXR/Project-Space-Dots/releases/download/quest-v1.0.0/space-dots-quest-1.0.0.apk). Enable Developer Mode on your Quest, connect it to your computer via USB, and use **Install APK** in the [SideQuest desktop app](https://sidequestvr.com/setup-howto) to select the downloaded file.
+#### Install from SideQuest
+
+1. Open the [Project Space Dots listing on SideQuest](https://sidequestvr.com/app/64446/project-space-dots).
+2. Choose **Sideload** and follow the SideQuest prompts to install the app on your headset.
+3. On your Quest, open **Unknown Sources** in the app library and launch **Space Dots**.
+
+#### Install the GitHub APK manually
+
+1. [Download the Quest APK from GitHub](https://github.com/KevinOttenXR/Project-Space-Dots/releases/download/quest-v1.0.0/space-dots-quest-1.0.0.apk).
+2. Enable Developer Mode on your Quest, connect it to your computer via USB, and allow USB debugging if prompted.
+3. In the [SideQuest desktop app](https://sidequestvr.com/setup-howto), choose **Install APK** and select the downloaded file. Then launch **Space Dots** from **Unknown Sources** on your Quest.
 
 Playback requires internet access and depends on YouTube allowing the video to play in the app. Space Dots does not include a music player.
 
