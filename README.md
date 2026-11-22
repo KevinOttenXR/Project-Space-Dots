@@ -13,9 +13,7 @@ Space Dots was built for Apple Vision Pro, which still offers the best experienc
 [![Vision Pro](https://img.shields.io/badge/Vision_Pro-171717?style=for-the-badge)](https://github.com/KevinOttenXR/Project-Space-Dots/archive/refs/heads/main.zip)
 [![Quest](https://img.shields.io/badge/Quest-0866FF?style=for-the-badge)](https://github.com/KevinOttenXR/Project-Space-Dots/releases/download/quest-v1.0.0/space-dots-quest-1.0.0.apk)
 
-**Vision Pro:** Download the source and [build it in Xcode](#build-and-run).
-
-**Meta Quest:** Install the APK using the [SideQuest desktop app](https://sidequestvr.com/setup-howto), or get it from the [SideQuest listing](https://sidequestvr.com/app/64446/project-space-dots).
+[Build and installation instructions](#build-and-run)
 
 `Apple Vision Pro` · `Meta Quest` · `visionOS` · `RealityKit` · `Unity`
 
@@ -82,11 +80,18 @@ Some spatial behaviour requires a physical Apple Vision Pro to evaluate fully.
 
 ## Build and run
 
+### Apple Vision Pro
+
 1. Clone or download this repository.
 2. Open `Space Dots.xcodeproj` in Xcode.
 3. Select the **Space Dots** target and open **Signing & Capabilities**.
 4. Keep **Automatically manage signing** enabled and select your Apple Developer team. No team is configured in the repository.
 5. Select Apple Vision Pro or an Apple Vision Pro simulator and run the **Space Dots** scheme.
+
+### Meta Quest 3, 3S and 2
+
+- **Install from SideQuest.** If you already use SideQuest, open the [Project Space Dots listing](https://sidequestvr.com/app/64446/project-space-dots) and choose **Sideload**.
+- **Download the APK.** [Download the Quest APK from GitHub](https://github.com/KevinOttenXR/Project-Space-Dots/releases/download/quest-v1.0.0/space-dots-quest-1.0.0.apk). Enable Developer Mode on your Quest, connect it to your computer via USB, and use **Install APK** in the [SideQuest desktop app](https://sidequestvr.com/setup-howto) to select the downloaded file.
 
 Playback requires internet access and depends on YouTube allowing the video to play in the app. Space Dots does not include a music player.
 
